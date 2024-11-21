@@ -1,0 +1,6 @@
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\bin\Debug\Getting_Started.exe
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\bin\Debug\Getting_Started.pdb
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\obj\Debug\Getting_Started.csproj.AssemblyReference.cache
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\obj\Debug\Getting_Started.csproj.CoreCompileInputs.cache
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\obj\Debug\Getting_Started.exe
+C:\GitHub\W3_C-_GettingStarted\Getting_Started\Getting_Started\obj\Debug\Getting_Started.pdb
