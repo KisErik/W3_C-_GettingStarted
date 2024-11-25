@@ -1,0 +1,15 @@
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\bin\Debug\net8.0\Day2.exe
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\bin\Debug\net8.0\Day2.deps.json
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\bin\Debug\net8.0\Day2.dll
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\bin\Debug\net8.0\Day2.pdb
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.sourcelink.json
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.dll
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\refint\Day2.dll
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.pdb
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+C:\GitHub\W3_C-_GettingStarted\AdventOfCode2023\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll
